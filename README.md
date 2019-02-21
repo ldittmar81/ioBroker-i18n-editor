@@ -2,7 +2,7 @@
 # ioBroker i18n-editor
 =================
 
-This is an i18n-editor to help you translate apapters for ioBroker.
+This is an i18n-editor to help you translate adapters for ioBroker.
 
 
 ## License
